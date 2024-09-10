@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hyman",
+        "last_name": "Elgee",
+        "email": "helgee0@home.pl",
+        "gender": "Male",
+        "salary":26000
+    },
+    {
+        "id": 2,
+        "first_name": "Everett",
+        "last_name": "Pohl",
+        "email": "epohl1@independent.co.uk",
+        "gender": "Male",
+        "salary":12000
+    },
+    {
+        "id": 3,
+        "first_name": "Lennard",
+        "last_name": "Squibe",
+        "email": "lsquibe2@va.gov",
+        "gender": "Male",
+        "salary":18000
+    },
+    {
+        "id": 4,
+        "first_name": "Ware",
+        "last_name": "Dumbell",
+        "email": "wdumbell3@flavors.me",
+        "gender": "Male",
+        "salary":35000
+    },
+    {
+        "id": 5,
+        "first_name": "Borg",
+        "last_name": "Seargeant",
+        "email": "bseargeant4@ftc.gov",
+        "gender": "Male",
+        "salary":30000
+    },
+    {
+        "id": 6,
+        "first_name": "Whitney",
+        "last_name": "Slaughter",
+        "email": "wslaughter5@feedburner.com",
+        "gender": "Male",
+        "salary":18000
+    },
+    {
+        "id": 7,
+        "first_name": "Buck",
+        "last_name": "Murney",
+        "email": "bmurney6@posterous.com",
+        "gender": "Male",
+        "salary":20000
+    },
+    {
+        "id": 8,
+        "first_name": "Dexter",
+        "last_name": "Uglow",
+        "email": "duglow7@networksolutions.com",
+        "gender": "Male",
+        "salary":20000
+        
+
+    },
+    {
+        "id": 9,
+        "first_name": "Gipsy",
+        "last_name": "Astie",
+        "email": "gastie8@alibaba.com",
+        "gender": "Female",
+        "salary":15000
+    },
+    {
+        "id": 10,
+        "first_name": "Jocelyn",
+        "last_name": "Tarquini",
+        "email": "jtarquini9@fastcompany.com",
+        "gender": "Female",
+        "salary":10000
+    }
+]
